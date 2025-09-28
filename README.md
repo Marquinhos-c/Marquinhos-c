@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou <b>Marcos Costa</b> 👋</h1>
-<h3 align="center">Um desenvolvedor focado em Back-end com Java e Spring, e explorando o universo Front-end.</h3>
+<h3 align="center">Desenvolvedor Back-end com Java e Spring, e explorando o universo Front-end.</h3>
 
 <br>
 
