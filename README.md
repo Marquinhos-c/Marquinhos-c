@@ -10,7 +10,7 @@
   <br>
   - 💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia!
   <br>
-  - 📫 Email para contato: <b>[seu-email@exemplo.com]</b>
+  - 📫 Email para contato: <b>marquinhos.cs08@gmail.com</b>
 </p>
 
 <br>
